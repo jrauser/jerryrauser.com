@@ -1,0 +1,415 @@
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" ftp_hostname="ftp://ftp.jerryrauser.com" ftp_rootfolder="//public_html" exportTarget="FTP" domain="jerryrauser.com" resolutions="1x" timestamp="1580160374209">
+  <folder name="css">
+    <file name="site_global.css" crc="4119838429"/>
+    <file name="master_c-master-black-fill.css" crc="4289414794" ref="gorillas-rwanda:bonaire-2016:tanda-tula-singers:the-freethought-band:rwanda-drummers:blues-riffs-and-vamps:mississippi-blues:get-off-your-knees:matebole-hide-2016"/>
+    <file name="master_a-master.css" crc="3808496934" ref="index"/>
+    <file name="master_b-master--copy.css" crc="3882481173" ref="closer-to-home:international-tours:private:musicians"/>
+    <file name="closer-to-home.css" crc="514073649" ref="closer-to-home"/>
+    <file name="gorillas-rwanda.css" crc="168826046" ref="gorillas-rwanda"/>
+    <file name="international-tours.css" crc="448094490" ref="international-tours"/>
+    <file name="bonaire-2016.css" crc="4191811600" ref="bonaire-2016"/>
+    <file name="tanda-tula-singers.css" crc="111537677" ref="tanda-tula-singers"/>
+    <file name="the-freethought-band.css" crc="376570186" ref="the-freethought-band"/>
+    <file name="rwanda-drummers.css" crc="3952823497" ref="rwanda-drummers"/>
+    <file name="index.css" crc="40941683" ref="index"/>
+    <file name="blues-riffs-and-vamps.css" crc="529275002" ref="blues-riffs-and-vamps"/>
+    <file name="private.css" crc="493615642" ref="private"/>
+    <file name="mississippi-blues.css" crc="4088206371" ref="mississippi-blues"/>
+    <file name="get-off-your-knees.css" crc="485934845" ref="get-off-your-knees"/>
+    <file name="musicians.css" crc="3905568057" ref="musicians"/>
+    <file name="matebole-hide-2016.css" crc="4014013637" ref="matebole-hide-2016"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:international-tours:private:closer-to-home:musicians:bonaire-2016:mississippi-blues:the-freethought-band:get-off-your-knees:blues-riffs-and-vamps:matebole-hide-2016:tanda-tula-singers:gorillas-rwanda:rwanda-drummers"/>
+    <file name="museutils.js" crc="3939489907" ref="index:international-tours:private:closer-to-home:musicians:bonaire-2016:mississippi-blues:the-freethought-band:get-off-your-knees:blues-riffs-and-vamps:matebole-hide-2016:tanda-tula-singers:gorillas-rwanda:rwanda-drummers"/>
+    <file name="whatinput.js" crc="86476730" ref="index:international-tours:private:closer-to-home:musicians:bonaire-2016:mississippi-blues:the-freethought-band:get-off-your-knees:blues-riffs-and-vamps:matebole-hide-2016:tanda-tula-singers:gorillas-rwanda:rwanda-drummers"/>
+    <file name="museconfig.js" crc="3936894949" ref="index:international-tours:private:closer-to-home:musicians:bonaire-2016:mississippi-blues:the-freethought-band:get-off-your-knees:blues-riffs-and-vamps:matebole-hide-2016:tanda-tula-singers:gorillas-rwanda:rwanda-drummers"/>
+    <file name="jquery.musemenu.js" crc="4139692962" ref="index:international-tours:private:closer-to-home:musicians:bonaire-2016:mississippi-blues:the-freethought-band:get-off-your-knees:blues-riffs-and-vamps:matebole-hide-2016:tanda-tula-singers:gorillas-rwanda:rwanda-drummers"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index:international-tours:private:closer-to-home:musicians:bonaire-2016:mississippi-blues:the-freethought-band:get-off-your-knees:blues-riffs-and-vamps:matebole-hide-2016:tanda-tula-singers:gorillas-rwanda:rwanda-drummers"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:international-tours:private:closer-to-home:musicians:bonaire-2016:mississippi-blues:the-freethought-band:get-off-your-knees:blues-riffs-and-vamps:matebole-hide-2016:tanda-tula-singers:gorillas-rwanda:rwanda-drummers"/>
+    <file name="require.js" crc="4177726516" ref="index:international-tours:private:closer-to-home:musicians:bonaire-2016:mississippi-blues:the-freethought-band:get-off-your-knees:blues-riffs-and-vamps:matebole-hide-2016:tanda-tula-singers:gorillas-rwanda:rwanda-drummers"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="3936723242" ref="index:international-tours"/>
+    <file name="jerry diver portrait 600px.jpg" crc="3998983544" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="jerry playing harp 600px.jpg" crc="159733156" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="chimpanzee mahale poster 600px.jpg" crc="3961621714" seo="true" ref="index:international-tours">
+      <caption webpage="index" alt=""/>
+      <caption webpage="international-tours" alt=""/>
+    </file>
+    <file name="maasai ngorongoro poster 600px.jpg" crc="4292763025" seo="true" ref="index:international-tours">
+      <caption webpage="index" alt=""/>
+      <caption webpage="international-tours" alt=""/>
+    </file>
+    <file name="wildebeests serengeti poster 600px.jpg" crc="270214008" seo="true" ref="index:international-tours">
+      <caption webpage="index" alt=""/>
+      <caption webpage="international-tours" alt=""/>
+    </file>
+    <file name="elephant tarangire poster 600px.jpg" crc="4277932161" seo="true" ref="index:international-tours">
+      <caption webpage="index" alt=""/>
+      <caption webpage="international-tours" alt=""/>
+    </file>
+    <file name="hippos katavi poster 600px.jpg" crc="4236638872" seo="true" ref="index:international-tours">
+      <caption webpage="index" alt=""/>
+      <caption webpage="international-tours" alt=""/>
+    </file>
+    <file name="woman road poster 600px.jpg" crc="4152154706" seo="true" ref="index:international-tours">
+      <caption webpage="index" alt=""/>
+      <caption webpage="international-tours" alt=""/>
+    </file>
+    <file name="klotok post 1,2 poster 600px.jpg" crc="59343699" seo="true" ref="index:international-tours">
+      <caption webpage="index" alt=""/>
+      <caption webpage="international-tours" alt=""/>
+    </file>
+    <file name="klotok leakey poster 600px.jpg" crc="39885825" seo="true" ref="index:international-tours">
+      <caption webpage="index" alt=""/>
+      <caption webpage="international-tours" alt=""/>
+    </file>
+    <file name="semenggoh borneo poster 600px.jpg" crc="3804651872" seo="true" ref="index:international-tours">
+      <caption webpage="index" alt=""/>
+      <caption webpage="international-tours" alt=""/>
+    </file>
+    <file name="komodo scuba poster 600px.jpg" crc="3899379257" seo="true" ref="index:international-tours">
+      <caption webpage="index" alt=""/>
+      <caption webpage="international-tours" alt=""/>
+    </file>
+    <file name="komodo dragon poster 600px.jpg" crc="3943601058" seo="true" ref="index:international-tours">
+      <caption webpage="index" alt=""/>
+      <caption webpage="international-tours" alt=""/>
+    </file>
+    <file name="rainforest borneo poster 600px.jpg" crc="3771914591" seo="true" ref="index:international-tours">
+      <caption webpage="index" alt=""/>
+      <caption webpage="international-tours" alt=""/>
+    </file>
+    <file name="pit viper bako borneo poster 600px.jpg" crc="3797255193" seo="true" ref="index:international-tours">
+      <caption webpage="index" alt=""/>
+      <caption webpage="international-tours" alt=""/>
+    </file>
+    <file name="barong dancer poster 600px.jpg" crc="4225252806" seo="true" ref="index:international-tours">
+      <caption webpage="index" alt=""/>
+      <caption webpage="international-tours" alt=""/>
+    </file>
+    <file name="bandhavgarh-16 poster 600px.jpg" crc="474111102" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="rural india on the road poster 3 600px.jpg" crc="440154241" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="kanha poster 600px.jpg" crc="4126992274" seo="true" ref="index:international-tours">
+      <caption webpage="index" alt=""/>
+      <caption webpage="international-tours" alt=""/>
+    </file>
+    <file name="pench safari poster 600px.jpg" crc="177536227" seo="true" ref="index:international-tours">
+      <caption webpage="index" alt=""/>
+      <caption webpage="international-tours" alt=""/>
+    </file>
+    <file name="kaziranga safari poster 600px.jpg" crc="3934380456" seo="true" ref="index:international-tours">
+      <caption webpage="index" alt=""/>
+      <caption webpage="international-tours" alt=""/>
+    </file>
+    <file name="giraffe manor poster 600px.jpg" crc="4231182238" seo="true" ref="index:international-tours">
+      <caption webpage="index" alt=""/>
+      <caption webpage="international-tours" alt=""/>
+    </file>
+    <file name="rwanda gorilla video poster 600px.jpg" crc="3882522151" seo="true" ref="index:international-tours">
+      <caption webpage="index" alt=""/>
+      <caption webpage="international-tours" alt=""/>
+    </file>
+    <file name="rwanda gorilla stills poster 600px.jpg" crc="1949675" seo="true" ref="index:international-tours">
+      <caption webpage="index" alt=""/>
+      <caption webpage="international-tours" alt=""/>
+    </file>
+    <file name="rwanda drummers dancers poster 600px.jpg" crc="4280283150" seo="true" ref="index:international-tours">
+      <caption webpage="index" alt=""/>
+      <caption webpage="international-tours" alt=""/>
+    </file>
+    <file name="rwanda arts culture poster 600px.jpg" crc="4009460772" seo="true" ref="index:international-tours">
+      <caption webpage="index" alt=""/>
+      <caption webpage="international-tours" alt=""/>
+    </file>
+    <file name="rwanda on the road poster 600px.jpg" crc="4025867655" seo="true" ref="index:international-tours">
+      <caption webpage="index" alt=""/>
+      <caption webpage="international-tours" alt=""/>
+    </file>
+    <file name="serian maasai mara poster 600px.jpg" crc="4078500091" seo="true" ref="index:international-tours">
+      <caption webpage="index" alt=""/>
+      <caption webpage="international-tours" alt=""/>
+    </file>
+    <file name="lewa safari poster 600px.jpg" crc="488220533" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="belize jaguar poster 600px.jpg" crc="133734869" seo="true" ref="index:international-tours">
+      <caption webpage="index" alt=""/>
+      <caption webpage="international-tours" alt=""/>
+    </file>
+    <file name="belize monkey river poster 600px.jpg" crc="4222662265" seo="true" ref="index:international-tours">
+      <caption webpage="index" alt=""/>
+      <caption webpage="international-tours" alt=""/>
+    </file>
+    <file name="belize mayan ruins poster 600px-crop-u11871.jpg" crc="131971543" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="elephants matebole hide.jpg" crc="134052383" seo="true" ref="index:international-tours">
+      <caption webpage="index" alt=""/>
+      <caption webpage="international-tours" alt=""/>
+    </file>
+    <file name="matebole hide impala video 600px.jpg" crc="111330407" seo="true" ref="index:international-tours">
+      <caption webpage="index" alt=""/>
+      <caption webpage="international-tours" alt=""/>
+    </file>
+    <file name="mashatu lion 600px.jpg" crc="3947292284" seo="true" ref="index:international-tours">
+      <caption webpage="index" alt=""/>
+      <caption webpage="international-tours" alt=""/>
+    </file>
+    <file name="tanda tula rhino 600px.jpg" crc="50611240" seo="true" ref="index:international-tours">
+      <caption webpage="index" alt=""/>
+      <caption webpage="international-tours" alt=""/>
+    </file>
+    <file name="cape peninsula baboons 600px.jpg" crc="497671748" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tanda tula singers video 600px.jpg" crc="4007126273" seo="true" ref="index:international-tours">
+      <caption webpage="index" alt=""/>
+      <caption webpage="international-tours" alt=""/>
+    </file>
+    <file name="queen angel 350px 100ppi.jpg" crc="375673666" seo="true" ref="index:international-tours">
+      <caption webpage="index" alt=""/>
+      <caption webpage="international-tours" alt=""/>
+    </file>
+    <file name="venice thumbnail model-crop-u11084.jpg" crc="3835197391" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mask of agamenmon.jpg" crc="274853166" seo="true" ref="index:international-tours">
+      <caption webpage="index" alt=""/>
+      <caption webpage="international-tours" alt=""/>
+    </file>
+    <file name="beetle stacked 350px 100ppi.jpg" crc="4082239308" seo="true" ref="index:closer-to-home">
+      <caption webpage="index" alt=""/>
+      <caption webpage="closer-to-home" alt=""/>
+    </file>
+    <file name="whitespotted filefish 350px 100ppi.jpg" crc="4201321005" seo="true" ref="index:international-tours">
+      <caption webpage="index" alt=""/>
+      <caption webpage="international-tours" alt=""/>
+    </file>
+    <file name="rome bubbles 350px.jpg" crc="261747911" seo="true" ref="index:international-tours">
+      <caption webpage="index" alt=""/>
+      <caption webpage="international-tours" alt=""/>
+    </file>
+    <file name="girl and baby 600px.jpg" crc="294869237" seo="true" ref="index:international-tours">
+      <caption webpage="index" alt=""/>
+      <caption webpage="international-tours" alt=""/>
+    </file>
+    <file name="pompeii faun room hero-crop-u11350.jpg" crc="282322783" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mask florence 350px 100pp1.jpg" crc="3758911824" seo="true" ref="index:international-tours">
+      <caption webpage="index" alt=""/>
+      <caption webpage="international-tours" alt=""/>
+    </file>
+    <file name="bee on purple 350px 100ppi.jpg" crc="16940976" seo="true" ref="index:closer-to-home">
+      <caption webpage="index" alt=""/>
+      <caption webpage="closer-to-home" alt=""/>
+    </file>
+    <file name="joisting girl 350px 100ppi.jpg" crc="50387547" seo="true" ref="index:closer-to-home">
+      <caption webpage="index" alt=""/>
+      <caption webpage="closer-to-home" alt=""/>
+    </file>
+    <file name="tokyo 1983 abc poster 600px-crop-u11896.jpg" crc="262281874" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dancer india.jpg" crc="3855362164" seo="true" ref="index:international-tours">
+      <caption webpage="index" alt=""/>
+      <caption webpage="international-tours" alt=""/>
+    </file>
+    <file name="beijing china poster 600px-crop-u11909.jpg" crc="4039891914" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="kyoto japan poster 600px-crop-u11935.jpg" crc="154873407" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="philippines poster 600px.jpg" crc="4112442641" seo="true" ref="index:international-tours">
+      <caption webpage="index" alt=""/>
+      <caption webpage="international-tours" alt=""/>
+    </file>
+    <file name="hong kong poster 600px-crop-u11948.jpg" crc="3950708921" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hawaii poster 600px.jpg" crc="249631052" seo="true" ref="index:international-tours">
+      <caption webpage="index" alt=""/>
+      <caption webpage="international-tours" alt=""/>
+    </file>
+    <file name="bangkok thailand poster 600px-crop-u11958.jpg" crc="4275319184" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tokyo 1982 de poster 600px-crop-u11984.jpg" crc="4078786511" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="caribbean diving-1981 poster 600px.jpg" crc="5620079" seo="true" ref="index:international-tours">
+      <caption webpage="index" alt=""/>
+      <caption webpage="international-tours" alt=""/>
+    </file>
+    <file name="bali indonesia poster 600px-crop-u12000.jpg" crc="260703718" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="walkin in my sleep cropped png.png" crc="3948557713" ref="index:international-tours:private:closer-to-home:musicians">
+      <caption webpage="index" alt=""/>
+      <caption webpage="closer-to-home" alt=""/>
+      <caption webpage="musicians" alt=""/>
+      <caption webpage="private" alt=""/>
+      <caption webpage="international-tours" alt=""/>
+    </file>
+    <file name="bandhavgarh-17 poster 600px.jpg" crc="261672279" seo="true" ref="international-tours">
+      <caption webpage="international-tours" alt=""/>
+    </file>
+    <file name="rural india on the road poster2 600px.jpg" crc="532259914" seo="true" ref="international-tours">
+      <caption webpage="international-tours" alt=""/>
+    </file>
+    <file name="lewa safari poster 600px-crop-u12125.jpg" crc="3846696029" seo="true" ref="international-tours">
+      <caption webpage="international-tours" alt=""/>
+    </file>
+    <file name="belize mayan ruins poster 600px-crop-u11598.jpg" crc="4074527693" seo="true" ref="international-tours">
+      <caption webpage="international-tours" alt=""/>
+    </file>
+    <file name="cape peninsula baboons 600px-crop-u11254.jpg" crc="3891369550" seo="true" ref="international-tours">
+      <caption webpage="international-tours" alt=""/>
+    </file>
+    <file name="venice thumbnail model-crop-u11094.jpg" crc="145309032" seo="true" ref="international-tours">
+      <caption webpage="international-tours" alt=""/>
+    </file>
+    <file name="pompeii faun room hero.jpg" crc="3980283895" seo="true" ref="international-tours">
+      <caption webpage="international-tours" alt=""/>
+    </file>
+    <file name="tokyo 1983 abc poster 600px-crop-u11623.jpg" crc="17032121" seo="true" ref="international-tours">
+      <caption webpage="international-tours" alt=""/>
+    </file>
+    <file name="beijing china poster 600px-crop-u11636.jpg" crc="93637063" seo="true" ref="international-tours">
+      <caption webpage="international-tours" alt=""/>
+    </file>
+    <file name="kyoto japan poster 600px-crop-u11671.jpg" crc="27970602" seo="true" ref="international-tours">
+      <caption webpage="international-tours" alt=""/>
+    </file>
+    <file name="hong kong poster 600px-crop-u11687.jpg" crc="3794343074" seo="true" ref="international-tours">
+      <caption webpage="international-tours" alt=""/>
+    </file>
+    <file name="bangkok thailand poster 600px-crop-u11703.jpg" crc="3896223279" seo="true" ref="international-tours">
+      <caption webpage="international-tours" alt=""/>
+    </file>
+    <file name="tokyo 1982 de poster 600px-crop-u11735.jpg" crc="242098558" seo="true" ref="international-tours">
+      <caption webpage="international-tours" alt=""/>
+    </file>
+    <file name="bali indonesia poster 600px-crop-u11751.jpg" crc="354418824" seo="true" ref="international-tours">
+      <caption webpage="international-tours" alt=""/>
+    </file>
+    <file name="great blue heron poster 600px-crop-u12049.jpg" crc="536303488" seo="true" ref="closer-to-home">
+      <caption webpage="closer-to-home" alt=""/>
+    </file>
+    <file name="favorite blues riffs and vamps-crop-u11126.jpg" crc="3896204719" seo="true" ref="musicians">
+      <caption webpage="musicians" alt=""/>
+    </file>
+    <file name="mississippi blues 350px.jpg" crc="473168905" seo="true" ref="musicians">
+      <caption webpage="musicians" alt=""/>
+    </file>
+    <file name="ft band 350px.jpg" crc="3835400574" seo="true" ref="musicians">
+      <caption webpage="musicians" alt=""/>
+    </file>
+    <file name="dan barker get off your knees 600px.jpg" crc="4061993893" seo="true" ref="musicians">
+      <caption webpage="musicians" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="3890439813" seo="true" mt="1580149464784" redirect="true"/>
+  <file name="international-tours.html" crc="263159204" seo="true" mt="1580160332034" redirect="true"/>
+  <file name="private.html" crc="20217123" seo="true" mt="1459005459039" redirect="true"/>
+  <file name="closer-to-home.html" crc="82415209" seo="true" mt="1495573746000" redirect="true"/>
+  <file name="musicians.html" crc="249933100" seo="true" mt="1489266827662" redirect="true"/>
+  <file name="bonaire-2016.html" crc="4051206175" seo="true" mt="1460393730275" redirect="true"/>
+  <file name="mississippi-blues.html" crc="4015742269" seo="true" mt="1459029856623" redirect="true"/>
+  <file name="the-freethought-band.html" crc="3915494501" seo="true" mt="1459100753676" redirect="true"/>
+  <file name="get-off-your-knees.html" crc="436466817" seo="true" mt="1459108819022" redirect="true"/>
+  <file name="blues-riffs-and-vamps.html" crc="468517805" seo="true" mt="1467058923548" redirect="true"/>
+  <file name="matebole-hide-2016.html" crc="118427067" seo="true" mt="1479596048436" redirect="true"/>
+  <file name="tanda-tula-singers.html" crc="3988949547" seo="true" mt="1479596252541" redirect="true"/>
+  <file name="gorillas-rwanda.html" crc="316843681" seo="true" mt="1512158588378" redirect="true"/>
+  <file name="rwanda-drummers.html" crc="141467691" seo="true" mt="1512158685796" redirect="true"/>
+  <site>
+    <paragraphStyle className="normal_text" uid="U50"/>
+    <paragraphStyle className="ts1Footer-Buttons" uid="U845"/>
+    <paragraphStyle className="ts1Top-Master-Menu" uid="U1804"/>
+    <paragraphStyle className="Musicians-Banner" uid="U1860"/>
+    <paragraphStyle className="Musician-Photo-Label" uid="U1869"/>
+    <paragraphStyle className="Old-Song-Body-Text" uid="U2027"/>
+    <paragraphStyle className="Old-Song-Section-Heading" uid="U2028"/>
+    <paragraphStyle className="Musicians-Page-Names" uid="U2381"/>
+    <paragraphStyle className="Events-Page-Trigger-Labels" uid="U4463"/>
+    <paragraphStyle className="ts1Page-Top-Blue-Banner-Geneva-37" uid="U4483"/>
+    <paragraphStyle className="ts1General-Body-Text-Geneva-16" uid="U4485"/>
+    <paragraphStyle className="ts1Main-Heading-Text-Geneva-22" uid="U4486"/>
+    <paragraphStyle className="ts1Band-Page-Image-Titles-Gen18" uid="U4487"/>
+    <paragraphStyle className="ts1Section-Heading-Text-Geneva-18" uid="U4489"/>
+    <paragraphStyle className="ts1Events-Page-Image-Titles-Gen16" uid="U4515"/>
+    <paragraphStyle className="Home-Image-Titles" uid="U11414"/>
+    <textLinkStyle className="Song-Text-Links" uid="U2030"/>
+    <nestedListStyle className="nls-None" uid="U8100"/>
+  </site>
+  <renditions>
+    <rendition device="desktop">
+      <page name="HOME" filename="index.html" muse_href="page:U64" master="U1359">
+        <breakpoint uid="U8222" maxwidth="1160" minwidth="0" squishy="false"/>
+      </page>
+      <masterPage name="A-Master " master="U53" uid="U1359">
+        <breakpoint uid="U8221" maxwidth="1160" minwidth="0" squishy="false"/>
+      </masterPage>
+      <masterPage name="None" master="null" uid="U53">
+        <breakpoint uid="U8207" maxwidth="1160" minwidth="0" squishy="false"/>
+      </masterPage>
+      <page name="INTERNATIONAL TOURS" filename="international-tours.html" muse_href="page:U384" master="U10298">
+        <breakpoint uid="U8218" maxwidth="1160" minwidth="0" squishy="false"/>
+      </page>
+      <masterPage name="B-Master  copy" master="U53" uid="U10298">
+        <breakpoint uid="U10301" maxwidth="1160" minwidth="0" squishy="false"/>
+      </masterPage>
+      <page name="PRIVATE" filename="private.html" muse_href="page:U1282" master="U10298">
+        <breakpoint uid="U8206" maxwidth="1160" minwidth="0" squishy="false"/>
+      </page>
+      <page name="CLOSER TO HOME" filename="closer-to-home.html" muse_href="page:U4183" master="U10298">
+        <breakpoint uid="U8209" maxwidth="1160" minwidth="0" squishy="false"/>
+      </page>
+      <page name="MUSICIANS  " filename="musicians.html" muse_href="page:U4662" master="U10298">
+        <breakpoint uid="U8205" maxwidth="1160" minwidth="0" squishy="false"/>
+      </page>
+      <page name="Bonaire-2016" filename="bonaire-2016.html" muse_href="page:U10645" master="U10686">
+        <breakpoint uid="U10635" maxwidth="1160" minwidth="0" squishy="false"/>
+      </page>
+      <masterPage name="C-Master Black Fill" master="U53" uid="U10686">
+        <breakpoint uid="U10721" maxwidth="1160" minwidth="0" squishy="false"/>
+      </masterPage>
+      <page name="Mississippi Blues" filename="mississippi-blues.html" muse_href="page:U10882" master="U10686">
+        <breakpoint uid="U10872" maxwidth="1160" minwidth="0" squishy="false"/>
+      </page>
+      <page name="The Freethought Band" filename="the-freethought-band.html" muse_href="page:U10901" master="U10686">
+        <breakpoint uid="U10891" maxwidth="1160" minwidth="0" squishy="false"/>
+      </page>
+      <page name="Get Off Your Knees" filename="get-off-your-knees.html" muse_href="page:U10930" master="U10686">
+        <breakpoint uid="U10920" maxwidth="1160" minwidth="0" squishy="false"/>
+      </page>
+      <page name="Blues Riffs and Vamps" filename="blues-riffs-and-vamps.html" muse_href="page:U11115" master="U10686">
+        <breakpoint uid="U11105" maxwidth="1160" minwidth="0" squishy="false"/>
+      </page>
+      <page name="Matebole Hide-2016" filename="matebole-hide-2016.html" muse_href="page:U11176" master="U10686">
+        <breakpoint uid="U11166" maxwidth="1160" minwidth="0" squishy="false"/>
+      </page>
+      <page name="Tanda Tula Singers" filename="tanda-tula-singers.html" muse_href="page:U11188" master="U10686">
+        <breakpoint uid="U11178" maxwidth="1160" minwidth="0" squishy="false"/>
+      </page>
+      <page name="Gorillas Rwanda" filename="gorillas-rwanda.html" muse_href="page:U12079" master="U10686">
+        <breakpoint uid="U12069" maxwidth="1160" minwidth="0" squishy="false"/>
+      </page>
+      <page name="Rwanda Drummers" filename="rwanda-drummers.html" muse_href="page:U12091" master="U10686">
+        <breakpoint uid="U12081" maxwidth="1160" minwidth="0" squishy="false"/>
+      </page>
+    </rendition>
+  </renditions>
+</manifest>
